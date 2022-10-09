@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Aplikasi Pertama</string>
+    <string name="welcome_text">Halo Developer</string>
+    <string name="first_button">TOP</string>
+    <string name="second_button">BOTTOM</string>
+    <string name="third_button">BELOW TOP</string>
+    <string name="fourth_button">ABOVE BOTTOM</string>
 </resources>
